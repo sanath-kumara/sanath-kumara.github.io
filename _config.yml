@@ -193,7 +193,7 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
+  projects: 
     output: false
     permalink: /projects/:path/
 
