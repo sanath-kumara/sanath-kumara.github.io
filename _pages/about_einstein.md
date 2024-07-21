@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.png` and put it in the `img/` folder.
+Hello! I’m Sanath Kumara, a passionate Mechanical Engineer specializing in Robotics and Industrial Automation. With a Bachelor’s degree in Mechanical and Manufacturing Engineering from the University of Ruhuna, I have honed my skills in CAD, C/C++ programming, and control systems1.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am a Mechatronics Engineer at LE Robotics (Pvt) Ltd., where I leverage my expertise to innovate in the robotics domain. My journey in engineering has been enriched by my previous experiences at Dilmah Tea and Trischel Fabric (Pvt.) Ltd., where I contributed to advancing mechanical systems and IoT integration for process optimization.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am dedicated to integrating cutting-edge technologies into efficient robotics applications, constantly seeking to enhance automation solutions2. My commitment to excellence and innovation drives me to stay at the forefront of technological advancements.
+
+Feel free to connect with me to explore opportunities in robotics, automation, and beyond!
