@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Carton Lifting Mechanism
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: dd
+category: projects
 related_publications: true
 ---
 
@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
+    title: Carton Lifting Mechanism
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
