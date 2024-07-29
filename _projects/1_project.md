@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Carton Lifting Mechanism
-description: 
+description: A mechanism for lifting cartons
 img: assets/img/cartonliftmechanism.JPG
 importance: 1
-category: work
+category: CAD
 related_publications: false
 ---
 
