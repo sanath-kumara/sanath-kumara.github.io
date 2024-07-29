@@ -17,4 +17,4 @@ giscus_comments: false
     Micromouse Robot Design.
 </div>
 
-I designed and built a high-performance robot specifically for micromouse competitions, where the objective is to navigate a maze as quickly and accurately as possible. CAD design of this project is already completed. Electronic design and algorithem creation works are still going on.
+I designed and built a high-performance robot specifically for micromouse competitions, where the objective is to navigate a maze as quickly and accurately as possible. CAD design of this project is already completed. Electronic design and algorithem creation works are still going on. 
