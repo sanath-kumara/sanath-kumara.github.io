@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sanathkumara0.github.io/sitemap.xml
+Sitemap: https://sanath-kumara.github.io/sitemap.xml
