@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Sanath Kumara Thilakarathna
     - name: Date of Birth
-      value: 14th March 1879
+      value: 07th Aug 1997
     - name: Languages
-      value: English, German
+      value: English, Sinhala
 
 - title: Education
   type: time_table
