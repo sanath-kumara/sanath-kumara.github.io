@@ -16,7 +16,7 @@ I designed this robot with collaboration of Mr.Veelochana Sigera and Mr.Eranda S
     </div>
 </div>
 <div class="caption">
-    Carton Lifting Mechanism.
+    Autonomous Delivery Robot.
 </div>
 
 <div class="row">
@@ -25,7 +25,7 @@ I designed this robot with collaboration of Mr.Veelochana Sigera and Mr.Eranda S
     </div>
 </div>
 <div class="caption">
-    Chain guid mechanism.
+    Autonomous Delivery Robot - Chassie and Wheels.
 </div>
 
 Using this robot we expect to deliver goods inside of buildings. Still this is in under development stage. 
