@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead) 
 first_name: Sanath
 middle_name: Kumara
 last_name:  
 email: dmsksanath@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: > # the ">" symbol means to ignore newlines until "footer_text:" 
   Sanath's Personal WebSite.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -26,15 +26,15 @@ back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
 # Theme
-# -----------------------------------------------------------------------------
+# ----------------------------------------------------------------------------- 
 
 # repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy 
 
 # -----------------------------------------------------------------------------
 # RSS Feed
