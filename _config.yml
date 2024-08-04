@@ -302,7 +302,7 @@ jekyll-archives:
   permalinks:
     year: "/blog/:year/"
     tag: "/blog/tag/:name/"
-    category: "/blog/category/:name/"
+    category: "/blog/category/:name/" 
 
 display_tags: ["Math", "Programming", "C/C++"] # these tags will be displayed on the front page of your blog
 display_categories: ["C Programming", "Microcontrollers"] # these categories will be displayed on the front page of your blog
