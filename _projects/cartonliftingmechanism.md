@@ -2,7 +2,7 @@
 layout: page
 title: Carton Lifting Mechanism
 description: A mechanism for lifting cartons
-img: assets/img/cartonliftmechanism.JPG
+img: assets/img/cartonliftmechanism.png
 importance: 1
 category: CAD
 related_publications: false
@@ -12,7 +12,7 @@ I designed this carton lifting mechanism during my internship at Dilmah Ceylon T
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cartonliftmechanism.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cartonliftmechanism.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
